@@ -87,7 +87,7 @@ const config = {
             items: [
               {
                 label: "Blog",
-                to: "http://blog.ned.finance",
+                href: "http://blog.ned.finance",
               },
               {
                 label: "GitHub",
