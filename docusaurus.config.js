@@ -95,7 +95,7 @@ const config = {
 							},
 							{
 								label: "GitHub",
-								href: "https://github.com/facebook/Ned-Finance",
+								href: "https://github.com/Ned-Finance",
 							},
 						],
 					},
