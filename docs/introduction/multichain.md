@@ -5,18 +5,14 @@ sidebar_position: 2
 # Multichain
 
 When we refer to the term multichain we are saying that we support multiple
-chains in cross transfers and nfts.
-
-While we support multiple blockchains to do different actions we are based on
-Solana blockchain for our products, for example, our savings account is based on
-Solana blockchain but users can seamessly convert their funds from other
-supported blockchains to solana without involving more steps, all of this thanks
-to our integration with [wormhole](https://wormhole.com/).
+blockchains in Ned. Users can add as many wallets as they need in any of the
+supported blockchains.
 
 # What blockchains are supported?
 
-At the moment, Sui and Aptos are supported by Ned Wallet, as soon as we
-integrate more chains we will update our documentation.
+At the moment, only Solana blockchain is supported, if you want to know the when
+a new blockchain is going to be added check our
+[roadmap](https://trello.com/b/AK2e79wa/ned-roadmap).
 
 # What blockchains are supported by wormhole?
 
