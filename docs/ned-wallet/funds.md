@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-## Indexed Funds
+# Funds
 
 Funds are a basket of tokens where users can buy a portion of that basket and
 earn as the value of all tokens in the fund increase.
